@@ -1,7 +1,3 @@
-try:
-    !pip install plotly
-except:
-pass
 
 import streamlit as st
 import pandas as pd
